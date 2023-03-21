@@ -2,10 +2,10 @@
 <h3 align="center">I'm a computer engineering undergrad</h3>
 
 
--👋 Hi, I’m @Priyanshu171
--👀 I’m interested in Python, Data science, Web dev, Machine learning
--🌱 I’m currently learning Python, Java, JavaScript, Machine Learning
--📫 How to reach me ... Mail : priyanshunikam171@gmail.com
+- 👋 Hi, I’m **@Priyanshu171**
+- 👀 I’m interested in **Python, Data science, Web dev, Machine learning**
+- 🌱 I’m currently learning **Python, Java, JavaScript, Machine Learning**
+- 📫 How to reach me ... Mail : **priyanshunikam171@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
